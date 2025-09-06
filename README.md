@@ -60,7 +60,14 @@ GenQuizAI is an intelligent, AI-based web application that generates multiple-ch
 - 🎮 Gamified quiz mode  
 
 ---
+🔗 Project Note
 
+This repository is an earlier version of Gen Quiz AI.
+For the latest, fully functional project, please visit:
+👉 Gen Quiz AI (https://github.com/Kavisha880/GEN_QUIZ_AI)
+
+🚀 **Try the Live App here:**  
+[https://genquizai-dnxlk4ewpnvefgslpudnaq.streamlit.app](https://genquizai-dnxlk4ewpnvefgslpudnaq.streamlit.app)
 ## 👩‍💻 Author
 
 **Kavisha Gupta**  
